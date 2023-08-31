@@ -1,0 +1,11 @@
+[package]
+name = "quad_decoder"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cordic = "0.1.5"
+fixed = "1.23.1"
+heapless = "0.7.16"
